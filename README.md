@@ -81,6 +81,3 @@ personal_finance_tracker.py
 Raniya Rahman
 
 
----
-
-## 📸 Sample Output
