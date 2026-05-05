@@ -4,7 +4,7 @@ A simple and user-friendly Python console application to track income and expens
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Add multiple income entries  
 -  Add multiple expense entries  
@@ -17,7 +17,7 @@ A simple and user-friendly Python console application to track income and expens
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python  
 - Loops  
